@@ -1,1 +1,1 @@
-# offlineHandwirttenSignatureVerification
+# Offline Handwritten Signature Augmentation and verification
