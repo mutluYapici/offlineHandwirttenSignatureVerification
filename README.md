@@ -4,6 +4,8 @@ Verify authenticity of offline handwritten signatures through digital image proc
 
 There are offline signature examples of two individuals named 0115 and 129 from the databases listed below in the Data folder. In addition, the signature samples reconstructed with the proposed data augmentation method are in the data folder.
 
+We couldn't upload trained weights here because there is a 100MB file limit on GitHub. You can download pre-trained weight from **[HERE](http://mutluyapici.com/wp-content/uploads/2017/09/M0115_weight.h5)** 
+
 # Step By Step Usage
       
    1- Download all files and folders.
