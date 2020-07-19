@@ -1,14 +1,22 @@
 # Deep Leaning Based Data Augmentation Method and Signature Verification System for Offline Handwritten Signature
 
 Verify authenticity of offline handwritten signatures through digital image processing and neural networks.
+
+There are offline signature examples of two individuals named 0115 and 129 from the databases listed below in the Data folder. In addition, the signature samples reconstructed with the proposed data augmentation method are in the data folder.
+
 # Step By Step Usage
+      
+   1- Download all files and folders.
+   
+   2- If you want to see performance of the system, download pre-trained weight from **[HERE](http://mutluyapici.com/wp-content/uploads/2017/09/M0115_weight.h5)**
+  .Then move the file in /data/Mimza_0115 directory.
+   
+   3- Run all codes in **loadData.py**
+   
+   4- Run all codes in **loadModel.py**
+   
+   5- Run the required codes in **trainAndAnalysis.py**  according to the your plans
     
-    1- Download all files and folders.
-    2- If you see performance of the system, download pre-trained weight from [ HERE ]:http://mutluyapici.com/wp-content/uploads/2017/09/M0115_weight.h5 
-    Move the file in /data/Mimza_0115 directory.
-    [link text itself]: http://www.reddit.com
-    python sigrecog.py to run with our implementation of a backpropagation neural network.
-    python sigrecogtf.py to run with a tensorflow model created using logistic regression.
 
 # Built with
 
@@ -26,6 +34,11 @@ Verify authenticity of offline handwritten signatures through digital image proc
 
 # Dataset
 
+The dataset used was gotten from the GPDS and MCYT signature databases. More details are available to the links below.
+
+**[More Information About GPDSsyntheticSignature Dataset](http://www.gpds.ulpgc.es/downloadnew/download.htm)**
+
+**[More Information About MCYT-75 Dataset](http://atvs.ii.uam.es/atvs/mcyt75so.html)**
 
 # Accuracy
 
