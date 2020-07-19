@@ -5,7 +5,7 @@ train(model=model,eval_model=eval_model, data=((x_train, y_train), (x_test, y_te
 
 
 """Run to LOAD TRAINED WEIGHTS (Eğitilmiş Ağırlıkları Yüklemek İçin Çalıştırın)"""
-eval_model.load_weights('images/'+imzaAdi+'/M0115_ağirliklarim.h5')
+eval_model.load_weights('data/'+imzaAdi+'/M0115_ağirliklarim.h5')
 
 """Run to See Analysis Results of The Model (Eğitilmiş Modele Ait Analiz Sonuçlarını Göremek İçin Çalıştırın)"""
 
