@@ -1,6 +1,6 @@
 # Deep Leaning Based Data Augmentation Method and Signature Verification System for Offline Handwritten Signature
 
-Verify authenticity of offline handwritten signatures through digital image processing and neural networks.
+Verify authenticity of offline handwritten signatures according to the writer dependent approach through digital image processing and neural networks.
 
 There are offline signature examples of two individuals named 0115 and 129 from the databases listed below in the Data folder. In addition, the signature samples reconstructed with the proposed data augmentation method are in the data folder.
 
