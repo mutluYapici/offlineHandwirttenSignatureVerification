@@ -44,4 +44,4 @@ The dataset used was gotten from the GPDS and MCYT signature databases. More det
 
 # Accuracy
 
-The model acheived an accuracy of 98.06% F1 Score and 2.58% EER with 10 Genuine samples on the MCYT signature dataset. 
+The model acheived an accuracy of 98.06% F1 Score, 1.99% AER and 2.58% EER with 10 Genuine samples on the MCYT signature dataset. 
